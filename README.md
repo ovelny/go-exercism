@@ -1,0 +1,1 @@
+My solutions to Go exercises on exercism.org
